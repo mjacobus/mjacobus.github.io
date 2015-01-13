@@ -2,7 +2,7 @@
 title: Coding Stuff
 email: marcelo.jacobus@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Like when you do stuff by coding
+  Like when you do stuff by coding. Marcelo Jacobus' thoughts and notes.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mjacobus.github.com" # the base hostname & protocol for your site
 twitter_username: marcelo_jacobus
