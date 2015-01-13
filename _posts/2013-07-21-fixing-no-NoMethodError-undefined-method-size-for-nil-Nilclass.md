@@ -7,7 +7,7 @@ I got this error when trying to bundle an Rails 4 application. My ruby version w
 
 ## How I got it fixed
 
-```bash
+{% highlight bash %}
 rvm get stable
 
 rvm install 2.0.0 # installed ruby-2.0.0-p247
@@ -17,4 +17,4 @@ opened another terminal session
 gem install bundle
 
 cd myapp && bundle install
-```
+{% endhighlight %}
