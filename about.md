@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Happily married, [Jehovah's witness](http://www.jw.org/en/jehovahs-witnesses/faq/), Ruby/PHP developer.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Find me on [github](http://github.com/mjacobus) and [LinkedIn](https://www.linkedin.com/in/marcelojacobus).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Learn about the [greatest programmer ever](http://www.jw.org/download/?output=html&pub=lf&fileformat=PDF&alllangs=0&langwritten=E&txtCMSLang=E&isBible=0).
