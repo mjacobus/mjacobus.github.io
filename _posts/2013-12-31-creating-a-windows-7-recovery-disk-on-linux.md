@@ -12,7 +12,7 @@ First, mount the recoverable cd you have or extract the iso image by running the
 
 {% highlight bash %}
 sudo mount -o loop recovery_cd.iso /tmp/windowsboot
-{% highlight %}
+{% endhighlight %}
 
 Then format your USB drive as NTFS and mark the partition as bootable.
 
@@ -20,7 +20,7 @@ Copy the files to your USB.
 
 {% highlight bash %}
 cp -rvf /tmp/windowsboot/* /mnt/your-usb-folder
-{% highlight %}
+{% endhighlight %}
 
 Download the latest stable version of ms-sys and install it.
 
@@ -32,12 +32,12 @@ cd /tmp/ms-sys-2.2.1
 make
 
 sudo make install
-{% highlight %}
+{% endhighlight %}
 
 Once it is installed you can write the windows 7 MBR to your USB drive (root permissions required):
 
 {% highlight bash %}
 ms-sys -7 /dev/sdX
-{% highlight %}
+{% endhighlight %}
 
 Thats it.

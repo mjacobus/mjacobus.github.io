@@ -14,4 +14,4 @@ describe Gossiper::NotificationsController, 'routing' do
       route_to('gossiper/notifications#index')
   end
 end
-{% highlight %}
+{% endhighlight %}

@@ -9,23 +9,23 @@ Add the gem to your gem file
 {% highlight ruby %}
 # Gemfile
 gem 'capybara-webkit'
-{% highlight %}
+{% endhighlight %}
 
 And bundle
 
 {% highlight bash %}
 bundle install
-{% highlight %}
+{% endhighlight %}
 
 Ooops! That gave me the error:
 
 {% highlight bash %}
 qmake: could not find a Qt installation of ”...
-{% highlight %}
+{% endhighlight %}
 
 {% highlight bash %}
 sudo apt-get install qt5-defaul
-{% highlight %}
+{% endhighlight %}
 
 Bundle again and…
 
@@ -35,7 +35,7 @@ Project ERROR: Unknown module(s) in WT: webkitwidgets
 sudo apt-get install libqt5webkit5-dev
 
 sudo apt-get install qtquick1-5-dev qtlocation5-dev qtsensors5-dev qtdeclarative5-dev
-{% highlight %}
+{% endhighlight %}
 
 And bundle…
 
@@ -47,6 +47,6 @@ Than I ended up finding [this](https://github.com/thoughtbot/capybara-webkit/wik
 sudo apt-get install libqt4-dev
 
 sudo apt-get install libfontconfig1-dev libfreetype6-dev libx11-dev libxcursor-dev libxext-dev libxfixes-dev libxft-dev libxi-dev libxrandr-dev libxrender-dev
-{% highlight %}
+{% endhighlight %}
 
 Ta da! I just lost the will to test javascript. =/
