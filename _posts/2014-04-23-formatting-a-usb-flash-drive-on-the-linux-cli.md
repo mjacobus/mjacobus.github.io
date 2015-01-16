@@ -6,4 +6,4 @@ tags: [Linux, CLI]
 
 {% highlight bash %}
 sudo mkdosfs -n 'Label' -I /dev/sdX
-{% highlight %}
+{% endhighlight %}

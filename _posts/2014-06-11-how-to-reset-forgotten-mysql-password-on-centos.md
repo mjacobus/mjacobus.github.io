@@ -14,6 +14,6 @@ MYSQL> flush privileges;
 MYSQL> exit;
 
 # service mysqld restart
-{% highlight %}
+{% endhighlight %}
 
 [This](https://www.howtoforge.com/reset-forgotten-mysql-root-password) is the source.
