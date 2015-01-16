@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Batch resizing images on the Linux CLI
+title: Downloading all files from a folder with wget
 tags: [Wget, CLI]
 ---
 
