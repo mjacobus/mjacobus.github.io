@@ -15,7 +15,7 @@ Do this:
 Syntax:
 
 {% highlight vim %}
-:Gedit [branchname or commit hash]:filename
+:Gedit [branch name or commit hash]:[filename]
 {% endhighlight %}
 
 Tip:
