@@ -4,6 +4,8 @@ title: Testing rails mountable engine routes with rspec
 tags: [Rails, Ruby, Rspec]
 ---
 
+In order to test engine routes (and controllers) you may need to set the routes attributes:
+
 {% highlight ruby %}
 
 describe Gossiper::NotificationsController, 'routing' do
