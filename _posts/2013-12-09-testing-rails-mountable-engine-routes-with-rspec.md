@@ -4,7 +4,7 @@ title: Testing rails mountable engine routes with rspe
 ctags: [Rails, Ruby, Rspec]
 ---
 
-{% highlight bash %}
+{% highlight ruby %}
 describe Gossiper::NotificationsController, 'routing' do
    # here's the trick
    routes { Gossiper::Engine.routes }
