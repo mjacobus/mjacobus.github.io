@@ -5,3 +5,26 @@ http://askubuntu.com/questions/452108/cannot-change-screen-size-from-640x480-aft
 TDD presentation
 
 Why you should try vim
+
+-----------------------------------------------------------------
+## Git Svn
+
+### Working with branches
+
+#### Creating a local branch
+
+  git checkout my-branch
+
+  git commit -m "first branch commit"
+  git commit -m "second branch commit"
+
+#### Merging the local branch
+
+  git checkout master
+  git merge my-branch -m "Description of the mergin"
+
+If no message is given to the merge, it will be "Merge branch my-branch"
+
+Note that altough you made 2 commits, when you merge a local branch and pushes that to the SVN repository you will have only one commit that groups all your branch commits.
+
+[Source](http://git-scm.com/book/en/v1/Git-and-Other-Systems-Git-and-Subversion#Switching-Active-Branches)
