@@ -28,3 +28,15 @@ If no message is given to the merge, it will be "Merge branch my-branch"
 Note that altough you made 2 commits, when you merge a local branch and pushes that to the SVN repository you will have only one commit that groups all your branch commits.
 
 [Source](http://git-scm.com/book/en/v1/Git-and-Other-Systems-Git-and-Subversion#Switching-Active-Branches)
+
+More on mergin vs rebase
+
+http://stackoverflow.com/questions/6457490/git-merge-vs-rebase-using-git-svn
+
+git checkout vacation
+git rebase master 
+[ masters's chages put behind this branches, replay every commit ]
+git checkout master
+git merge --ff-only vacation
+git svn dcommit 
+[ each change goes into svn as seperate commit ]
