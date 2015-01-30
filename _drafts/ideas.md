@@ -32,6 +32,7 @@ Note that altough you made 2 commits, when you merge a local branch and pushes t
 More on mergin vs rebase
 
 http://stackoverflow.com/questions/6457490/git-merge-vs-rebase-using-git-svn
+http://stackoverflow.com/questions/266395/git-svn-how-do-i-create-a-new-svn-branch-via-git
 
 git checkout vacation
 git rebase master 
