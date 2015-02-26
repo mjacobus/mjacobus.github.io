@@ -41,3 +41,8 @@ git checkout master
 git merge --ff-only vacation
 git svn dcommit 
 [ each change goes into svn as seperate commit ]
+
+-------------------------
+
+Failing installing dependencies
+http://stackoverflow.com/questions/21168141/can-not-install-packages-using-node-package-manager-in-ubuntu
