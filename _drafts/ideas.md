@@ -46,3 +46,6 @@ git svn dcommit
 
 Failing installing dependencies
 http://stackoverflow.com/questions/21168141/can-not-install-packages-using-node-package-manager-in-ubuntu
+
+------ fixed failed rvm install
+gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
