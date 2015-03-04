@@ -12,13 +12,16 @@ Here is the configuration I used.
 {% highlight ini %}
 zend_extension=/usr/lib/php5/20121212/xdebug.so
 
-xdebug.idekey           = netbeans-xdebug
-xdebug.default_enable   = 1
-xdebug.remote_enable    = 1
-xdebug.remote_handler   = dbgp
-xdebug.remote_host      = localhost
-xdebug.remote_port      = 9000
-xdebug.remote_autostart = 1
+xdebug.default_enable     = 1
+xdebug.remote_enable      = 1
+xdebug.remote_port        = 9000
+
+; ## yet to be explored
+;
+; xdebug.remote_autostart = 1
+; xdebug.idekey           = netbeans-xdebug
+; xdebug.remote_handler   = dbgp
+; xdebug.remote_host      = localhost
 {% endhighlight %}
 
 - Go to the line you want to debug and press F10 to mark line as a break point.
