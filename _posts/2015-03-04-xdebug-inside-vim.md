@@ -12,12 +12,12 @@ Here is the configuration I used.
 {% highlight ini %}
 zend_extension=/usr/lib/php5/20121212/xdebug.so
 
-xdebug.default_enable     = 1
 xdebug.remote_enable      = 1
 xdebug.remote_port        = 9000
 
 ; ## yet to be explored
 ;
+; xdebug.default_enable   = 1
 ; xdebug.remote_autostart = 1
 ; xdebug.idekey           = netbeans-xdebug
 ; xdebug.remote_handler   = dbgp
