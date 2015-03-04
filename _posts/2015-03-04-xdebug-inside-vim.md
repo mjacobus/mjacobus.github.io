@@ -9,7 +9,7 @@ tags: [PHP, Vim]
 
 Here is the configuration I used.
 
-{% highlight %}
+{% highlight ini %}
 zend_extension=/usr/lib/php5/20121212/xdebug.so
 
 xdebug.idekey=netbeans-xdebug
