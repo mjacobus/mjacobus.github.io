@@ -7,6 +7,7 @@ tags: [ZF2, PHP]
 This is how you can get the view helper manager from the service locator/service manager.
 
 {% highlight php %}
+<?php
 $viewManager = $serviceManager->get('ViewHelperManager');
 {% endhighlight %}
 
