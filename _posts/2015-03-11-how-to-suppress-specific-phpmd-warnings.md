@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to suppress specific phpmd warnings
+title: How to suppress specific PHPMD warnings
 tags: [PHP, PHPMD]
 ---
 
