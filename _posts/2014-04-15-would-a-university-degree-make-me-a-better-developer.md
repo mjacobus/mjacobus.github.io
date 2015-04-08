@@ -40,5 +40,9 @@ I know that is not the case in other countries, but it seems to me that it is so
 
 I hope to hear different opinions.
 
-Edit:
+## Edit:
 I found [this](codeulate.com/2011/06/programmer-resumes-are-deprecated/) great post that I think somehow relates to the topic.
+
+## Edit 2:
+
+The guys from the onboarding team managed to get a work permit and I've been working for [Good Game Studios](http://goodgamestudios.com) since January 1th, 2015!
