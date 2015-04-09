@@ -8,7 +8,7 @@ I had a hard time trying to achieve the above. Every time I tried to copy create
 
 I found [this post](http://www.linuxquestions.org/questions/linux-software-2/creating-windows-7-bootable-usb-from-linux-762229/#post3946086) that solved the problem.
 
-First, mount the recoverable cd you have or extract the iso image by running the following command:
+First, mount the recoverable CD you have or extract the ISO image by running the following command:
 
 {% highlight bash %}
 sudo mount -o loop recovery_cd.iso /tmp/windowsboot

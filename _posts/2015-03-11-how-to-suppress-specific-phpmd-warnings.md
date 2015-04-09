@@ -29,7 +29,7 @@ I was struggling to find the specific types of warnings to suppress. So here is 
 - UnusedLocalVariable
 - UnusedPrivateMethod
 
-Here are some NCSS related (not sure if they work), for by the time of this writting they were commented:
+Here are some NCSS related (not sure if they work), for by the time of this writing they were commented:
 
 - NcssMethodCount
 - NcssTypeCount

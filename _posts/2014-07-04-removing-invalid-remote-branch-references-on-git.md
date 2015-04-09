@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Removing invalid remote brnach references on Git
+title: Removing invalid remote branch references on Git
 tags: [Git]
 ---
 

@@ -14,7 +14,7 @@ I will update this post as I have the time to do so.
 
 - Powerful
 - Fast
-- You can dissmiss your mouse
+- You can dismiss your mouse
 - Available in every system
 - Highly extensible
 - Highly customizable

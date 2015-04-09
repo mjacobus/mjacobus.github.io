@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Banco do Brasil no Ubuntu 13.4 no firefox
+title: Banco do Brasil no Ubuntu 13.4 no Firefox
 tags: [Linux]
 ---
 

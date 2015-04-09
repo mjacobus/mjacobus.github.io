@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating a bootable usb stick
+title: Creating a bootable USB stick
 tags: [Linux, CLI]
 ---
 
