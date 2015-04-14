@@ -10,3 +10,7 @@ github_username:  mjacobus
 
 # Build settings
 markdown: kramdown
+
+tag_page_layout: tag_page
+tag_page_dir: tag
+# tag_permalink_style: pretty
