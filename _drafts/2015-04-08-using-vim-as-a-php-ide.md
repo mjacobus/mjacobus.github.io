@@ -18,6 +18,7 @@ I will update this post as I have the time to do so.
 - Available in every system
 - Highly extensible
 - Highly customizable
+- Awesome for remote pair programming with tmux
 - Configuration can be versioned in a public repository such as github giving
   you the ability to have the very same configuration in every single computer
   you use VIM (workstation, laptop, PC)
