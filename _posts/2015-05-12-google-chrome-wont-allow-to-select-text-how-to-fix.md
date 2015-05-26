@@ -17,7 +17,7 @@ to all the lines that start with ```Exec=```.
 To do that in the command line you can run the following command:
 
 {% highlight bash %}
-sudo sed -i s/\(Exec=.*\)$/\1 --touch-devices=123/g /usr/share/applications/google-chrome.desktop
+sudo sed -i "s/\(Exec=.*\)$/\1 --touch-devices=123/g" /usr/share/applications/google-chrome.desktop
 {% endhighlight %}
 
 You may want to append ``` --touch-devices=123``` when you call google-chrome from the CLI and even create an alias for that:
