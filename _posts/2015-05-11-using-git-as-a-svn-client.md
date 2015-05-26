@@ -7,7 +7,7 @@ tags: [Git]
 So you are stuck with SVN, huh? So here is what you will do:
 
 {% highlight bash %}
-git svn clone -s --prefix=/origin https://svn.url/projects/{my_project}
+git svn clone -s --prefix=origin/ https://svn.url/projects/{my_project}
 {% endhighlight %}
 
 This assumes that you have ```{my_project}/trunk```, ```{my_project}/tags``` and ```{my_project}/branches```
