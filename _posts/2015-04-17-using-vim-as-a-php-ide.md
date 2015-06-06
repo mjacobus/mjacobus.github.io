@@ -40,7 +40,8 @@ that!).
 Remember the time you had managed to type fairly fast with what, 3 fingers? You
 felt very proud and felt like you were flying on the keyboard. But sometimes
 you typed 10 words or so just to realize that you were not even focused on the
-editor and all the words you typed were send to nowhere.
+editor and all the words you typed were send to nowhere. And you did that because
+you weren't focused on the screen but on the keyboard.
 
 Then you decided to learn how to type properly. It took some time, discipline
 and effort to learn that, right? You probably felt kind of retarded missing
