@@ -33,8 +33,8 @@ I will update this post as I have the time.
 First thing you should keep in mind is that you will hate vim. Trust me, you
 will. It can be very frustrating. But if you stick to it you will love it! I promise you.
 
-Take type for example. If you are a programmer, you probably know how to type
-properly (if you don't, stop everything you are doing right know and learn
+Take typing for example. If you are a programmer, you probably know how to type
+properly (if you don't, stop everything you are doing right now and learn
 that!).
 
 Remember the time you had managed to type fairly fast with what, 3 fingers? You
