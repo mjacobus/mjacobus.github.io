@@ -14,7 +14,7 @@ the necessary information that will be used by the command handler to do its job
 
 It should implement a very simple interface, empty even, just as to to enforce
 that command handlers deal with value objects rather than a primitive value,
-such an array. It should be immutable to prevent side effects.
+such an array. It must be immutable to prevent side effects.
 
 {% highlight php %}
 <?php
@@ -32,7 +32,7 @@ running out of ideas right now.
 ## The Command Handler
 
 The command handler is the responsible class for executing (or handling) the command.
-Think of it as a "action", or service if you will. As such, it should be immutable.
+Think of it as a "action", or service if you will. As such, it must be immutable.
 
 It also has a very simple interface.
 
