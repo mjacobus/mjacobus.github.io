@@ -146,7 +146,7 @@ class CommandBus implements CommandHandlerInterface
     {
         $handlerClass = get_class($command) . 'Handler';
 
-        $this->dependencyContainer->get($handlerClass);
+        return $this->dependencyContainer->get($handlerClass);
     }
 }
 {% endhighlight %}
