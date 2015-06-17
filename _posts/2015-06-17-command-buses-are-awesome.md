@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Command Bus is awesome
+title: Command Buses are awesome
 tags: [PHP, Design Patterns]
 ---
 
