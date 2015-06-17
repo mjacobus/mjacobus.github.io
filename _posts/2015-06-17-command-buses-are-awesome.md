@@ -222,9 +222,11 @@ Some people use commands only for writing and not for reading. But it can be
 used to read also. You could have a `GetProductsByCategoryId` command, for
 example.
 
-### Resoureces:
+### Resources:
 
 - [A wave of command buses](http://php-and-symfony.matthiasnoback.nl/2015/01/a-wave-of-command-buses/) - nice article about command buses.
 - [Dev Discussions - The Command Bus](https://www.youtube.com/watch?v=fbSYZFZCFS0) - Discussion on command bus
 - [Nurse](https://github.com/mjacobus/nurse) - a very simple dependency injection container.
 - [Koine\CommandBus](https://github.com/koinephp/CommandBus) - interfaces and helpers for you to craft your command bus
+
+I would love to hear your experiences and opinion on this subject.
