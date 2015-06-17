@@ -19,7 +19,7 @@ such an array. It should be immutable to prevent side effects.
 {% highlight php %}
 <?php
 
-namespace App/Command;
+namespace App\Command;
 
 interface CommandInterface  {
 }
