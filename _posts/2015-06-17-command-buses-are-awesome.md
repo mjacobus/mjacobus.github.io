@@ -228,5 +228,6 @@ example.
 - [Dev Discussions - The Command Bus](https://www.youtube.com/watch?v=fbSYZFZCFS0) - Discussion on command bus
 - [Nurse](https://github.com/mjacobus/nurse) - a very simple dependency injection container.
 - [Koine\CommandBus](https://github.com/koinephp/CommandBus) - interfaces and helpers for you to craft your command bus
+- [Command Bus To Awesome Town](http://de.slideshare.net/rosstuck/command-bus-to-awesome-town)
 
 I would love to hear your experiences and opinion on this subject.
