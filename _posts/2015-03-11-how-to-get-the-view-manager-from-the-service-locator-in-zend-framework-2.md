@@ -11,4 +11,13 @@ This is how you can get the view helper manager from the service locator/service
 $viewHelperManager = $serviceManager->get('ViewHelperManager');
 {% endhighlight %}
 
+
+For the form element manager:
+
+{% highlight php %}
+<?php
+$formElementManager = $serviceManager->get('FormElementManager');
+{% endhighlight %}
+
+
 [Source](https://juriansluiman.nl/article/120/using-zend-framework-service-managers-in-your-application).
