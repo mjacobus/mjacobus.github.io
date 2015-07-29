@@ -49,3 +49,12 @@ http://stackoverflow.com/questions/21168141/can-not-install-packages-using-node-
 
 ------ fixed failed rvm install
 gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
+
+----------------------------------
+
+## lotus framework
+
+- Why params do not throw exception when unauthorized params are used? [link](http://lotusrb.org/guides/actions/parameters/#whitelisting)
+  It returns nill instead. It may lead to save nil values in the database
+
+- Why Repository is a class and not an instance?
