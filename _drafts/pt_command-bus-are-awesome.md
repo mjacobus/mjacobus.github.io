@@ -11,6 +11,7 @@ O command deve implementar uma interface muito simples, até mesmo vazia, apenas
 para forćar que os Command Handlers possam lidar com objetos e não com um array.
 Além disto, os commandos devem ser imutáveis, para evitar efeitos colaterais.
 
+
 ```php
 <?php
 
@@ -18,14 +19,16 @@ namespace App\Command;
 
 interface CommandInterface  {
 }
+?>
 ```
 
-Um comando deve ter um nome descritivo e revelar a itenção por traz de sua existência.
-```DeleteUserById```, ```ClearCache``` ou... entendeu né?
+
+Um comando deve ter um nome descritivo e revelar a itenção por traz de sua existência. DeleteUserById, ClearCache ou... entendeu né?
+
 
 ## O Command Handler
 
-O handler é a classe responsável por executar (lidar com "handle") o comando.
+O handler é a classe responsável por executar (lidar com, inglês "handle") o comando.
 Pense no handler como uma "ação", ou serviço. E como tal, também deve ser imutável.
 
 O Handler também implementa uma interface muito simple.
@@ -38,15 +41,18 @@ namespace App\Command;
 interface CommandHandlerInterface  {
     public function handle(CommandInterface $command);
 }
+?>
 ```
 
+
 ## Exemplo de uso
+
 
 Todo o comando deve ter um respectivo handler. A relacão deve ser de um para um.
 Imagine que agente queira excluir um usuário com um ID específico.
 
 Nós queremos nomear o comando de acordo com o que agente quer fazer. Então
-```DeleteUserById``` é um excelente nome.
+DeleteUserById é um excelente nome.
 
 ```php
 <?php
@@ -68,11 +74,12 @@ class DeleteUserById implements CommandInterface
         return $this->userId;
     }
 }
+?>
 ```
 
-Note como é fácil de entender do que se trata apenas por ler o nome da do comando ```DeleteUserById```
+Note como é fácil de entender do que se trata apenas por ler o nome da do comando DeleteUserById
 
-O handler pode ser chamado então de ```DeleteUserByIdHandler```, revelando
+O handler pode ser chamado então de DeleteUserByIdHandler, revelando
 assim sua intencão. Também fica fácil adivinhar qual o comando que ele executa.
 
 ```php
@@ -97,13 +104,8 @@ class DeleteUserByIdHandler implements CommandHandlerInterface
         $this->repository->deleteById($command->getUserId());
     }
 }
+?>
 ```
-
-Now, note that the implementation of this command is very simple. But even if
-the implementation was hell, it would be very simple to understand what that
-class is about. It deletes user by id! I am not arguing that if should
-carefully choose a name and not to care about the implementation, but you get
-the point.
 
 Agora note que a implementacão do comando é muito simples. Mas mesmo que a
 implementacão fosse mais grotesca que um cão chupando manga, ainda seria fácil
@@ -118,8 +120,8 @@ podem ser mocadas e tudo.
 ## Command Bus - Um passo além
 
 O próximo passo `CommandBus`. Você pode pensar no command bus como um handler
-para todos os comandos. De fato, o ```CommandBus``` implementa a interface ```CommandHandler```.
-O que ele faz é delegar o comando para o handler correto, tal qual um ```Router```
+para todos os comandos. De fato, o CommandBus implementa a interface CommandHandler.
+O que ele faz é delegar o comando para o handler correto, tal qual um Router
 que resolve qual o controller e action que deve ser executado num framework MVC.
 
 ```php
@@ -153,6 +155,7 @@ class CommandBus implements CommandHandlerInterface
         return $this->dependencyContainer->get($handlerClass);
     }
 }
+?>
 ```
 
 O seu gerenciador de dependências poderia ser como segue:
@@ -182,9 +185,10 @@ $container->set('App\Repository\UserRepository', function ($container) {
 $container->set('PDO', function ($container) {
     return new PDO('connection_string');
 });
+?>
 ```
 
-Agora que você tem esta parte configurada, você pode usar o ```CommandBus```
+Agora que você tem esta parte configurada, você pode usar o CommandBus
 dentro do seu framwork favorito. E se quiser trocar de framework fica tudo bem fácil.
 
 ```php
@@ -210,12 +214,13 @@ class UsersController extends BaseController
         }
     }
 }
+?>
 ```
 
 
 ## Conclusão
 
-Na minha experiência com o ```CommandBus```, concluí que ele traz os seguintes benefícios.
+Na minha experiência com o CommandBus, concluí que ele traz os seguintes benefícios.
 
 - Independente de Framework
 - Reutilizável
