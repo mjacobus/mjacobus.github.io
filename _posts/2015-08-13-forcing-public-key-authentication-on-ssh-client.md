@@ -10,3 +10,8 @@ Just do that.
 ssh user@host -o PreferredAuthentications=publickey
 {% endhighlight %}
 
+And if you want to use a different key
+
+{% highlight bash %}
+ssh user@host -i /path/to/id_rsa
+{% endhighlight %}
