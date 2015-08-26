@@ -80,7 +80,7 @@ nnoremap <Left> :echomsg "use h"<cr>
 nnoremap <Right> :echomsg "use l"<cr>
 {% endhighlight %}
 
-## Vim overview
+## Vim has modes
 
 [Vim has modes](http://en.wikibooks.org/wiki/Learning_the_vi_Editor/Vim/Modes)
 
@@ -89,7 +89,23 @@ nnoremap <Right> :echomsg "use l"<cr>
 - Visual mode
 - Command line mode
 
-## Moving around
+Most part of the time when you are working on a test you are not actually
+inserting text, but you are editing test. This is why when you start VIM you
+are in ```normal``` mode. Therefore when you want to insert text you must enter
+this very special "insert mode". You have many ways of doing that and the
+easiest way is by typing ```i```, and then you can start inserting text where
+your cursor is.
+
+- ```a``` - enter insert mode **a**fter the cursor.
+- ```A``` - enter insert mode at the end of the line. Think of it as "**A**ppend text to line".
+- ```O``` - create a line before the current line and then you are in insert mode.
+- ```o``` - you create a line after the current line and then you are in insert mode.
+- ```S``` - deletes line and enter insert mode. Think of "**S**ubstitute line"
+- ```s``` - deletes char under cursor and enter insert mode. Think of "**S**ubstitute char and enter insert mode"
+
+To come back to normal mode you need to press ```<esc>```.
+
+### Moving around
 
 The above keys help you to move around You can move around when you are in normal mode by typing the following:
 
@@ -115,11 +131,41 @@ A `WORD`, on the other hand, according to the `:help motion.txt` is:
 
 Take for example the string `127.0.0.1`. It is a single `WORD` string, but 7 `words`.
 
-**TO BE CONTINUED...**
 
-## Insert Mode
-## Visual Mode
-## Plugins
+### Some nice commands
+
+Some commands will act on either a selection or a movement. Movements are the things explained above.
+
+You can change text by selecting a text and typing ```c``` or by typing ```c``` and choosing a movement.
+
+- ```cw``` - **c**hange **w**ord from cursor on
+- ```cW``` - **c**hange **W**ord from cursor on
+- ```ciw``` - **c**hange **i**nside word
+- ```ci"``` - **c**hange **i**nside double quotes
+- ```ci{``` - **c**hange **i**nside { opening and closing brackets }
+- ```ct"``` - **c**hange un**t**til the double quotes
+- ```cf"``` - **c**hange un**t**til the double quotes, including double quotes
+
+
+You can delete text by selecting a text and typing ```d``` or by typing ```d``` and choosing a movement.
+
+- ```dap``` - **d**elete **a**round paragraph (block of text)
+- ```di"``` - **d**elete **i**nside double quotes
+- ```da"``` - **d**elete **a**round double quotes
+
+There is probably much more, that I either dont remember or did not learn yet.
+
+### Visual Mode
+
+- ```V``` - line wise selection
+- ```v``` - character wise selection
+- ```<ctrl>v``` - block wise selection
+
+### Plugins
+
+- ctrl P
+- nerdtree
+- ...
 
 ## Resources:
 
