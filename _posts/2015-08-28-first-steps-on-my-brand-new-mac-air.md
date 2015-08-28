@@ -45,7 +45,7 @@ I installed mysql with homebrew and that was pretty easy.
 I cloned a ruby project and a php project and made sure that I could install
 dependencies and run the tests. It worked fine.
 
-My wife is now installing Photoshop and light room. Lets see how much disk it
+My wife is now installing Photoshop and Lightroom. Lets see how much disk it
 will use and how it will perform on this notebook. We hope we can buy her Mac
 Pro anytime soon
 
