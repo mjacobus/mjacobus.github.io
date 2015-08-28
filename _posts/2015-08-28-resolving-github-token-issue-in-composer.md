@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resolving github token issue in composer
-tags: [Linux, CLI, SSH]
+tags: [CLI, Composer, Github]
 ---
 
 ## TLDR;
