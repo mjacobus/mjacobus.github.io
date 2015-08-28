@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My first steps on my brand new mac air
+title: My first steps on my brand new Mac Air
 tags: [MacOS]
 ---
 
-So today I got my Mac Air 13", 8GB. I am a brand new mac user and I chose this product
+So today I got my Mac Air 13", 8GB, 128GB SSD. I am a brand new mac user and I chose this product
 because it sutes me well. Besides the very nice finishings (I may be inventing a word here)
 that battery lasts forever. I can program the whole time in a flight from Germany to Brasil!
 
@@ -49,4 +49,6 @@ My wife is now installing Photoshop and Lightroom. Lets see how much disk it
 will use and how it will perform on this notebook. We hope we can buy her Mac
 Pro anytime soon
 
-Well, so far the only thing that I know I need to fix is the yanking problem in VIM.
+Well, turns out the yanking thing was that the VIMs I have do not support
+```set clipboard=unnamedplus```. I had to change it to  ```set clipboard=unnamed```.
+Done.
