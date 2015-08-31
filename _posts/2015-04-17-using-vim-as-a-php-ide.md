@@ -155,6 +155,10 @@ You can delete text by selecting a text and typing ```d``` or by typing ```d``` 
 
 There is probably much more, that I either dont remember or did not learn yet.
 
+### The dot command
+
+With the dot command you can repeat the last action
+
 ### Visual Mode
 
 - ```V``` - line wise selection
@@ -163,9 +167,40 @@ There is probably much more, that I either dont remember or did not learn yet.
 
 ### Plugins
 
-- ctrl P
-- nerdtree
-- ...
+- [vim-commaobject](http://github.com/austintaylor/vim-commaobject)
+- [vim-hybrid](http://github.com/w0ng/vim-hybrid)
+- [vim-lucius](http://github.com/jonathanfilip/vim-lucius)
+- [vim-colors-solarized](http://github.com/altercation/vim-colors-solarized)
+- [vim-sparkup](http://github.com/tristen/vim-sparkup)
+- [html5.vim](http://github.com/othree/html5.vim)
+- [vim-repeat](http://github.com/tpope/vim-repeat)
+- [vim-surround](http://github.com/tpope/vim-surround)
+- [hardmode](http://github.com/wikitopian/hardmode)
+- [vim-gitgutter](http://github.com/airblade/vim-gitgutter)
+- [vim-fugitive](http://github.com/tpope/vim-fugitive)
+- [ag.vim](http://github.com/rking/ag.vim)
+- [ultisnips](http://github.com/sirver/ultisnips)
+- [vim-snippets](http://github.com/mjacobus/vim-snippets)
+- [tcomment_vim](http://github.com/tomtom/tcomment_vim)
+- [vim-easymotion](http://github.com/Lokaltog/vim-easymotion)
+- [auto-pairs](http://github.com/yukunlin/auto-pairs)
+- [webapi-vim.git](http://github.com/mattn/webapi-vim.git)
+- [gist-vim.git](http://github.com/mattn/gist-vim.git)
+- [nerdtree](http://github.com/scrooloose/nerdtree)
+- [ctrlp.vim](http://github.com/kien/ctrlp.vim)
+- [tabular](http://github.com/godlygeek/tabular)
+- [syntastic](http://github.com/scrooloose/syntastic)
+- [argumentrewrap](http://github.com/weierophinney/argumentrewrap)
+- [php-getter-setter.vim](http://github.com/docteurklein/php-getter-setter.vim)
+- [vdebug](http://github.com/joonty/vdebug)
+- [phpcomplete.vim](http://github.com/shawncplus/phpcomplete.vim)
+- [vim-php-namespace](http://github.com/arnaud-lb/vim-php-namespace)
+- [ruby-matchit](http://github.com/vim-scripts/ruby-matchit)
+- [vim-rspec-focus](http://github.com/mjacobus/vim-rspec-focus)
+- [vim-ruby](http://github.com/vim-ruby/vim-ruby)
+- [vim-rails](http://github.com/tpope/vim-rails)
+- [vim-rspec](http://github.com/thoughtbot/vim-rspec)
+- [Vim-toCterm](http://github.com/shawncplus/Vim-toCterm)
 
 ## Resources:
 
