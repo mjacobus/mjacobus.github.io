@@ -155,6 +155,24 @@ You can delete text by selecting a text and typing ```d``` or by typing ```d``` 
 
 There is probably much more, that I either dont remember or did not learn yet.
 
+- ```gf``` - **g**go to **f**ile
+- ```<ctrl>i``` - **g**go to **f**ile
+- ```<ctrl>]``` - **g**go to definition (jumps to method definition, use ctags)
+
+### Autocomplete
+
+- ```<ctrl>x <ctrl>[completition type]```
+
+Where:
+
+- ```f``` - file completition (from the filesystem)
+- ```o``` - omniauth completition
+- ```n``` - keyword inside open buffer
+- ```k``` - dictionary completition
+- ```l``` - line completition
+
+When the list opens, use ```<ctrl>n``` to **n**ext and ```<ctrl>p``` for previous
+
 ### The dot command
 
 With the dot command you can repeat the last action
@@ -165,12 +183,10 @@ With the dot command you can repeat the last action
 - ```v``` - character wise selection
 - ```<ctrl>v``` - block wise selection
 
+
 ### Plugins
 
 - [vim-commaobject](http://github.com/austintaylor/vim-commaobject)
-- [vim-hybrid](http://github.com/w0ng/vim-hybrid)
-- [vim-lucius](http://github.com/jonathanfilip/vim-lucius)
-- [vim-colors-solarized](http://github.com/altercation/vim-colors-solarized)
 - [vim-sparkup](http://github.com/tristen/vim-sparkup)
 - [html5.vim](http://github.com/othree/html5.vim)
 - [vim-repeat](http://github.com/tpope/vim-repeat)
@@ -184,7 +200,6 @@ With the dot command you can repeat the last action
 - [tcomment_vim](http://github.com/tomtom/tcomment_vim)
 - [vim-easymotion](http://github.com/Lokaltog/vim-easymotion)
 - [auto-pairs](http://github.com/yukunlin/auto-pairs)
-- [webapi-vim.git](http://github.com/mattn/webapi-vim.git)
 - [gist-vim.git](http://github.com/mattn/gist-vim.git)
 - [nerdtree](http://github.com/scrooloose/nerdtree)
 - [ctrlp.vim](http://github.com/kien/ctrlp.vim)
@@ -194,13 +209,11 @@ With the dot command you can repeat the last action
 - [php-getter-setter.vim](http://github.com/docteurklein/php-getter-setter.vim)
 - [vdebug](http://github.com/joonty/vdebug)
 - [phpcomplete.vim](http://github.com/shawncplus/phpcomplete.vim)
-- [vim-php-namespace](http://github.com/arnaud-lb/vim-php-namespace)
-- [ruby-matchit](http://github.com/vim-scripts/ruby-matchit)
-- [vim-rspec-focus](http://github.com/mjacobus/vim-rspec-focus)
-- [vim-ruby](http://github.com/vim-ruby/vim-ruby)
-- [vim-rails](http://github.com/tpope/vim-rails)
-- [vim-rspec](http://github.com/thoughtbot/vim-rspec)
-- [Vim-toCterm](http://github.com/shawncplus/Vim-toCterm)
+
+### Color Schemes
+
+- [vim-lucius](http://github.com/jonathanfilip/vim-lucius)
+- [vim-colors-solarized](http://github.com/altercation/vim-colors-solarized)
 
 ## Resources:
 
