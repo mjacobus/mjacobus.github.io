@@ -16,7 +16,7 @@ It did it for me.
 
 After that, I downloaded thoughtbot's
 [laptop](http://github.com/thoughtbot/laptop) and ran it. It installed mostly
-all the tools I need for development. PHP was already installed.
+all the tools I need for development. PHP 5.5 was already installed.
 
 Then I installed my [dotfiles](http://github.com/mjacobus/.dotfiles) and after
 making some adjustments it seems to work fine.
@@ -52,3 +52,12 @@ Pro anytime soon
 Well, turns out the yanking thing was that the VIMs I have do not support
 ```set clipboard=unnamedplus```. I had to change it to  ```set clipboard=unnamed```.
 Done.
+
+## PHP Stuff
+
+Installing xdebug:
+
+{% highlight bash %}
+$ brew tap homebrew/homebre-php
+$ brew install php55-xdebug
+{% endhighlight %}
