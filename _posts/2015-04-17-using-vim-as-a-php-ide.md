@@ -12,20 +12,42 @@ I will update this post as I have the time.
 
 ## Why VIM?
 
-- It's been around for a long time
-- Terminal (I love the command live interface. And the longest I can stay there, the better)
-  - Fast
-  - Available on your ssh cowboy coding!
-  - Awesome for remote pair programming with tmux
-  - You can dismiss your mouse
+By the time I started doing ruby development my favorite IDE (Netbeans) was
+discontinuing its support to that. Then I would either have to pay for rubymine
+or just use a editor. I started using Sublime text and it was kind of fine, although
+it was not very easy to keep my config synced at home and at work.
+
+Then I realized that many ruby developers actually use VIM. I thought it was because
+ruby devs like to show off =)
+
+Well, after seeing some videos of people using VIM, like [this video](https://www.youtube.com/watch?v=SkdrYWhh-8s),
+for example, I realized that people can be very productive in VIM.
+
+Some people like [Matthew Weier O'Phinney](https://mwop.net/blog/164-Vim-Productivity-Tips-for-PHP-Developers.html),
+the lead dev and top committer of Zend Framework, or [Aaron Patterson](https://github.com/tenderlove), top 2 rails committers,
+actually have been using VIM for over 10 years as "IDE". Turns out that most of Rails code was written on it.
+Same goes for Zend. Well, they are either too stupid, or VIM can actually be more convenient than many would expect.
+
+Facts I had already known about VIM:
+
+- VIM has been around for a long time
+- It is terminal based (I love the command live interface. And the longest I can stay there, the better)
+- Fast
+- Available on your ssh cowboy coding!
+- You can dismiss your mouse
 - Available in every system
+
+Facts I learned over time:
+
+- It is very clean and code focused
 - Powerful
 - Highly extensible
 - Highly customizable
 - Configuration can be versioned in a public repository such as github giving
   you the ability to have the very same configuration in every single computer
-  you use VIM (workstation, laptop, PC)
+  you use VIM (workstation, laptop, PC) (see my configuration [here](https://github.com/mjacobus/.dotfiles))
 - Once you are comfortable using VIM you can be very productive.
+- Awesome for remote pair programming with tmux
 - And plus you get to be cool =)
 
 ## Getting started with VIM
