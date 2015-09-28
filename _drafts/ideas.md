@@ -66,3 +66,4 @@ gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
 - Jump to definition
 - Search in project
 - Find, replace
+- Copy and paste

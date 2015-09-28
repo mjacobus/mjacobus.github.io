@@ -241,3 +241,4 @@ With the dot command you can repeat the last action
 
 - [Video](https://www.youtube.com/watch?v=_NUO4JEtkDw)
 - [Blog Post](https://mikecoutermarsh.com/learning-vim-in-a-week/)
+- [Some VIM classes](https://github.com/shawncplus/vim-classes)
