@@ -58,3 +58,11 @@ gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
   It returns nill instead. It may lead to save nil values in the database
 
 - Why Repository is a class and not an instance?
+
+## Things I forgot to say in the vim presentation
+
+- Plugin management
+- Go to file
+- Jump to definition
+- Search in project
+- Find, replace
