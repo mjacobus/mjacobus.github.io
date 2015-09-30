@@ -4,6 +4,8 @@ title: Using VIM as a PHP IDE
 tags: [Vim, PHP]
 ---
 
+EDIT: you can watch a video based on this post [here](/2015/09/30/vim-as-a-php-developer-video-presentation.html)
+
 On this post I will try to share my vim adventure for the last 2 years. I've
 been using only VIM developing for about 2 years now. On this post I will try
 to explain why I chose VIM and how I use it for writing code, mostly PHP.
