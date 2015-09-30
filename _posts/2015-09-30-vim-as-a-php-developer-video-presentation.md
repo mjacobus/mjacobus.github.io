@@ -8,4 +8,5 @@ About ten days ago, at the [PHP Unconference](https://github.com/bootev/php_unco
 I presented "VIM as a PHP IDE". The talk was based on [this post](/2015/04/17/using-vim-as-a-php-ide.html)
 and the video is available here:
 
-[![VIM as a PHP IDE](http://img.youtube.com/vi/kArYaVGkiu8/0.jpg)](http://www.youtube.com/watch?v=kArYaVGkiu8)
+
+[![VIM as a PHP IDE](http://img.youtube.com/vi/2ME-aqoUpaU/0.jpg)](http://www.youtube.com/watch?v=2ME-aqoUpaU)
