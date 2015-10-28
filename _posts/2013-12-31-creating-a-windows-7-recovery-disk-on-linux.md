@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating a Windows 7 recovery disk on linuxc
+title: Creating a Windows 7 recovery disk on linux
 tags: [Linux, CLI, Windows7]
 ---
 
