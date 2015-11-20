@@ -67,3 +67,26 @@ gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
 - Search in project
 - Find, replace
 - Copy and paste
+
+
+
+---------------------------------------
+
+PRS
+
+Accepted:
+
+https://github.com/thoughtbot/high_voltage/pull/118
+https://github.com/pagseguro/ruby/pull/14
+https://github.com/honza/vim-snippets/pull/523
+https://github.com/padraic/mockery/pull/457
+https://github.com/Seldaek/monolog/pulls/641
+https://github.com/janko-m/vim-test/pull/75
+
+
+Declined:
+
+https://github.com/seattlerb/minitest/pull/472
+https://github.com/google/google-api-php-client/pull/586
+https://github.com/Seldaek/monolog/pull/641
+https://github.com/thoughtbot/vim-rspec/pull/101
