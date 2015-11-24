@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using VIM as a PHP IDE
+title: Using VIM as a PHP IDE - Video presentation
 tags: [Vim, PHP]
 ---
 
