@@ -185,17 +185,19 @@ There is probably much more, that I either dont remember or did not learn yet.
 
 ### Autocomplete
 
-- ```<ctrl>x <ctrl>[completition type]```
+- ```<ctrl>x <ctrl>[completion type]```
 
 Where:
 
-- ```f``` - file completition (from the filesystem)
-- ```o``` - omniauth completition
+- ```f``` - file completion (from the filesystem)
+- ```o``` - omni completion
 - ```n``` - keyword inside open buffer
-- ```k``` - dictionary completition
-- ```l``` - line completition
+- ```k``` - dictionary completion
+- ```l``` - line completion
 
 When the list opens, use ```<ctrl>n``` to **n**ext and ```<ctrl>p``` for previous
+
+EDIT: Please refer to [this post](/2015/11/15/vim-autocompletion-for-php.html) for more details on autocomplete.
 
 ### The dot command
 
