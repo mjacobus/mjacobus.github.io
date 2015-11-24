@@ -7,7 +7,14 @@ tags: [Vim, PHP]
 You can achieve autocompletion like the cool IDEs (such as PHPStorm or
 NetBeans) by using the built in [omni completion](http://vim.wikia.com/wiki/Omni_completion).
 
-How you do that? Go to the variable you want to call a method, and after the arrow invoke
+How you do that? Go to the variable you want to call a method on, and after the arrow invoke
+
+{% highlight php %}
+public function foo(Bar $bar)
+{
+    $bar->
+}
+{% endhighlight %}
 
 {% highlight vim %}
 <ctrl>x
@@ -88,4 +95,4 @@ of completion tend to be much better in heavy IDEs such as PHPStorm and
 Netbeans, but I think it is good enough in VIM.
 
 Please leave a comment if you need any help with that. I hope to record a video
-showing how that can be done. Much better.
+showing how that can be done.

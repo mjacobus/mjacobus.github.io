@@ -197,7 +197,7 @@ Where:
 
 When the list opens, use ```<ctrl>n``` to **n**ext and ```<ctrl>p``` for previous
 
-EDIT: Please refer to [this post](/2015/11/15/vim-autocompletion-for-php.html) for more details on autocomplete.
+EDIT: Please refer to [this post](/2015/11/24/vim-autocompletion-for-php.html) for more details on autocomplete.
 
 ### The dot command
 
