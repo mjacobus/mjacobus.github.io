@@ -2,6 +2,7 @@
 layout: post
 title: Testing rails mountable engine routes with rspec
 tags: [Rails, Ruby, Rspec]
+comments: true
 ---
 
 In order to test engine routes (and controllers) you may need to set the routes attributes:

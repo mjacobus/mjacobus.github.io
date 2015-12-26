@@ -2,6 +2,7 @@
 layout: post
 title: Solving weird Capistrano problems with ssh authentication
 tags: [Capistrano, SSH, CLI]
+comments: true
 ---
 
 So I got the following error when trying to deploy:

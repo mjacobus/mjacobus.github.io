@@ -2,6 +2,7 @@
 layout: post
 title: Keep Ctrl+w from closing Firefox tab
 tags: [Firefox, Vim]
+comments: true
 ---
 
 Keep Ctrl+w from closing Firefox tab

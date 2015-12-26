@@ -2,6 +2,7 @@
 layout: post
 title: Formatting a USB flash drive on the Linux CLI
 tags: [Linux, CLI]
+comments: true
 ---
 
 {% highlight bash %}

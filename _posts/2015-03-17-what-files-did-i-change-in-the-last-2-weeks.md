@@ -2,6 +2,7 @@
 layout: post
 title: What files did I change in the last two weeks?
 tags: [Git, CLI]
+comments: true
 ---
 
 Every time we have a code review I need to fix some things. Besides bad design,

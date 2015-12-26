@@ -2,6 +2,7 @@
 layout: post
 title: "Available for pair programming for free: pair with me on your preferred open source project"
 tags: [Rails, Ruby]
+comments: true
 ---
 
 Hi there.

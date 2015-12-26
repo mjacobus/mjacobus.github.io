@@ -2,6 +2,7 @@
 layout: post
 title: A few tweaks after installing Ubuntu 14.04
 tags: [Linux, Ubuntu]
+comments: true
 ---
 
 Terminal commands:

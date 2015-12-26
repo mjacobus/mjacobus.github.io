@@ -2,6 +2,7 @@
 layout: post
 title: Moving and renaming files on linux (shortcut)
 tags: post
+comments: true
 ---
 
 I just found a great alternative to the following command:

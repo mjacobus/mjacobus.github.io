@@ -2,6 +2,7 @@
 layout: post
 title: Using Xdebug inside vim
 tags: [PHP, Vim]
+comments: true
 ---
 
 - Install [vdebug](https://github.com/joonty/vdebug).

@@ -2,6 +2,7 @@
 layout: post
 title: Command Buses are awesome
 tags: [PHP, Design Patterns]
+comments: true
 ---
 
 I'm not sure if that is really a design pattern. But I find that simple and it

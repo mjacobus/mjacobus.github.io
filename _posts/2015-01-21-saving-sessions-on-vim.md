@@ -2,6 +2,7 @@
 layout: post
 title: Saving sessions on vim
 tags: [Vim]
+comments: true
 ---
 
 You can save the session by doing this:

@@ -2,6 +2,7 @@
 layout: post
 title: Trying to install capybara-webkit
 ctags: [Rails, Ruby, Rspec, Capybara]
+comments: true
 ---
 
 Add the gem to your gem file

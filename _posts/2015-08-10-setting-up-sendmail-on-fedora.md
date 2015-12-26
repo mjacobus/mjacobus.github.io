@@ -2,6 +2,7 @@
 layout: post
 title: Setting up Sendmail on Fedora
 tags: [Linux, CLI]
+comments: true
 ---
 
 ## TLDR;

@@ -2,6 +2,7 @@
 layout: post
 title: Checking PHP DocBlocks
 tags: [PHP, QATools]
+comments: true
 ---
 
 This is how you can check it:

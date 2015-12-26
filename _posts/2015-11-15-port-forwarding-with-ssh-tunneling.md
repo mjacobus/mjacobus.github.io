@@ -2,6 +2,7 @@
 layout: post
 title: Port forwarding with ssh tunneling
 tags: [Linux, SSH]
+comments: true
 ---
 
 Say you want to be able to access a web server in a remote unix but port 80 is

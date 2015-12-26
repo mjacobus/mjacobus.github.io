@@ -2,6 +2,7 @@
 layout: post
 title: How to get the view manager from the service locator in Zend Framework 2
 tags: [ZF2, PHP]
+comments: true
 ---
 
 This is how you can get the view helper manager from the service locator/service manager.

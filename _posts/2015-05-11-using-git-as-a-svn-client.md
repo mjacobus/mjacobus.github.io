@@ -2,6 +2,7 @@
 layout: post
 title: Using Git as a SVN client
 tags: [Git]
+comments: true
 ---
 
 So you are stuck with SVN, huh? So here is what you will do:

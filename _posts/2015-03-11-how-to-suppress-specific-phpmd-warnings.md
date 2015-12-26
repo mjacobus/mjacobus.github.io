@@ -2,6 +2,7 @@
 layout: post
 title: How to suppress specific PHPMD warnings
 tags: [PHP, PHPMD]
+comments: true
 ---
 
 I was struggling to find the specific types of warnings to suppress. So here is a list of Warnings that can be suppressed:

@@ -2,6 +2,7 @@
 layout: post
 title: "Fixing \"NoMethodError: undefined method 'size' for nil:NilClass\""
 tags: [Rails, Ruby]
+comments: true
 ---
 
 I got this error when trying to bundle an Rails 4 application. My ruby version was ruby-2.0.0-p195.

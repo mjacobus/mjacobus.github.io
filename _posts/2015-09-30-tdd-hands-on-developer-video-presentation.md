@@ -2,6 +2,7 @@
 layout: post
 title: TDD - Hands On
 tags: [TDD, PHP]
+comments: true
 ---
 
 About ten days ago, at the [PHP Unconference](https://github.com/bootev/php_unconference/wiki/PhpUnconf-2015-Vortraege-Samstag)

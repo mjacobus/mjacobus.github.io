@@ -2,6 +2,7 @@
 layout: post
 title: Creating a bootable USB stick
 tags: [Linux, CLI]
+comments: true
 ---
 
 {% highlight bash %}

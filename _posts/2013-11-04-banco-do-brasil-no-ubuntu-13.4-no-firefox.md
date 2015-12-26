@@ -2,6 +2,7 @@
 layout: post
 title: Banco do Brasil no Ubuntu 13.4 no Firefox
 tags: [Linux]
+comments: true
 ---
 
 Depois de instalar o java, parece que o que foi preciso fazer foi o seguinte:

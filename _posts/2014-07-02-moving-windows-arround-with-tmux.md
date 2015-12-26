@@ -2,6 +2,7 @@
 layout: post
 title: Moving windows arround with Tmux
 tags: [Tmux]
+comments: true
 ---
 
 Moving current window to the position 0:

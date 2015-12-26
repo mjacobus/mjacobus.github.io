@@ -2,6 +2,7 @@
 layout: post
 title: Batch resizing images on the Linux CLI
 tags: [Linux, CLI]
+comments: true
 ---
 
 Make sure you have installed Image Magic

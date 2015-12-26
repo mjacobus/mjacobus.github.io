@@ -2,6 +2,7 @@
 layout: post
 title: How to create and apply patches with git
 tags: [Git]
+comments: true
 ---
 
 This is how I created a patch with the diffs I wanted to apply:
