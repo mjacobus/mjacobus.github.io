@@ -1,21 +1,20 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
 <html>
-
-  {% include head.html %}
-
-  <body>
+  <head>
+    {% include head.html %}
     {% include google_analytics.html %}
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include footer.html %}
-
+    <meta name="robots" content="noindex"> <!--=====  Please remove it ! ! !  ======-->
+    <meta name="googlebot" content="noindex"> <!--=====  Please remove it ! ! !  ======-->
+  </head>
+  <body class="{{ page.slug }}">
+    <main class="main">
+      {% include header.html %}
+      {{ content }}
+      {% include footer.html %}
+    </main>
   </body>
-
 </html>

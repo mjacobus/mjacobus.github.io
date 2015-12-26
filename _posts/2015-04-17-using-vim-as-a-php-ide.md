@@ -2,6 +2,7 @@
 layout: post
 title: Using VIM as a PHP IDE
 tags: [Vim, PHP]
+comments: true
 ---
 
 EDIT: you can watch a video based on this post [here](/2015/09/30/vim-as-a-php-developer-video-presentation.html)
