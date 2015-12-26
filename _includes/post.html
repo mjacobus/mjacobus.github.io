@@ -6,7 +6,10 @@
       <span class="post-author">by {{ site.author.name }}</span>
     </span>
   </header>
+
+  {% if post.skip_summary != true %}
   <div class="post-content">
     {{ post.content | strip_html | truncatewords: 30 }} <a href="{{ post.url | prepend: site.baseurl }}" class="readmore">Read more &raquo;</a>
   </div>
+  {% endif %}
 </article>

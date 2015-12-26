@@ -3,6 +3,7 @@ layout: post
 title: Checking PHP DocBlocks
 tags: [PHP, QATools]
 comments: true
+skip_summary: true
 ---
 
 This is how you can check it:
