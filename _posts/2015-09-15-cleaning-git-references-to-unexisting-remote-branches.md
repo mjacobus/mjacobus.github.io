@@ -2,6 +2,7 @@
 layout: post
 title: Removing git references to unexisting remote branches
 tags: [Git]
+comments: true
 ---
 
 Sometimes you remove a branch via web (github, gitlab...) but you still have its reference when you run:

@@ -2,6 +2,7 @@
 layout: post
 title: My first steps on my brand new Mac Air
 tags: [MacOS]
+comments: true
 ---
 
 So today I got my Mac Air 13", 8GB, 128GB SSD. I am a brand new mac user and I chose this product

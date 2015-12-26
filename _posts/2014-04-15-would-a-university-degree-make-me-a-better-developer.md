@@ -2,6 +2,7 @@
 layout: post
 title: Would a University Degree make me a better developer?
 tags: [Thoughts, Development, University]
+comments: true
 ---
 
 Just recently a German company showed interest in hiring me. I was very happy and surprised. They phoned me, and we kept in touch for a few weeks. They even asked me how fast could I go to Hamburg and how much I wanted my salary to be. It looked very promising and I started feeling confident. Then they asked me for my university degree and as I don’t have one, the negotiation was over. Too bad.

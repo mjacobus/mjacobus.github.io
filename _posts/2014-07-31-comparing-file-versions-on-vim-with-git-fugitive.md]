@@ -2,6 +2,7 @@
 layout: post
 title: Comparing file versions on vim with git fugitive
 tags: [Vim, Git]
+comments: true
 ---
 
 You have foo.rb open in your feature branch and you want to check how this file was on the mater branch?

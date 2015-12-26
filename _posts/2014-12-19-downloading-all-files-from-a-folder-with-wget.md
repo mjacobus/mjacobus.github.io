@@ -2,6 +2,7 @@
 layout: post
 title: Downloading all files from a folder with wget
 tags: [Wget, CLI]
+comments: true
 ---
 
 So you want to download all those [your favorite tv show here] videos from that nice index page.

@@ -2,6 +2,7 @@
 layout: post
 title: "Google Chrome won't allow to select text: how to fix"
 tags: [Linux, Google Chrome]
+comments: true
 ---
 
 For some stupid reason I don't even want to try to understand, Google Chrome

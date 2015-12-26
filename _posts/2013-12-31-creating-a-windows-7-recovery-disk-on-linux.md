@@ -2,6 +2,7 @@
 layout: post
 title: Creating a Windows 7 recovery disk on linux
 tags: [Linux, CLI, Windows7]
+comments: true
 ---
 
 I had a hard time trying to achieve the above. Every time I tried to copy create a usb recovery disk for windows 7 it did not work. I could write the files, but it would not boot, despite flagging the partition as bootable.

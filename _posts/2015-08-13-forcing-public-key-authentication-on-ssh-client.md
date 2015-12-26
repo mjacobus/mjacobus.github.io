@@ -2,6 +2,7 @@
 layout: post
 title: Forcing public key authentication on ssh client
 tags: [Linux, CLI, SSH]
+comments: true
 ---
 
 Just do that.

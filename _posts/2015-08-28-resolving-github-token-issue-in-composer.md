@@ -2,6 +2,7 @@
 layout: post
 title: Resolving github token issue in composer
 tags: [CLI, Composer, Github]
+comments: true
 ---
 
 ## TLDR;
