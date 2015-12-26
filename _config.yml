@@ -27,9 +27,9 @@ github: https://github.com/mjacobus
 disqus_shortname: "mjacobusgithubio"
 google_analytics: UA-61332006-1
 
-# paginate: 2
-# comments: true
-# paginate_path: "/page/:num"
+paginate: 20
+comments: true
+paginate_path: "/page/:num"
 
 # sass:
 #   style: :compressed

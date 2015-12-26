@@ -2,6 +2,7 @@
 layout: post
 title: Vim Autocompletion for PHP
 tags: [Vim, PHP]
+comments: true
 ---
 
 You can achieve autocompletion like the cool IDEs (such as PHPStorm or
