@@ -1,3 +1,20 @@
+# buzz phrases
+
+
+- Mimicking the real world is unrealistic.
+- software development is a learning process
+- working code is a side effect
+- Expose the real problem
+- Understanding the problem must be cheap
+- A proper implementation is Value vs Cost
+- The goal is not to write cool software. The goal is to solve the right problem
+
+
+"Bob"
+https://twitter.com/thepaulrayner/status/693019436345901057
+
+
+############### Gregory's note
 — Key Note
 
 FOCUS on opportunities
