@@ -5,20 +5,22 @@ tags: [English]
 comments: true
 ---
 
-| Word            | Pronunciation      | Meaning               |
-| --------------- | ----------         | ------------          |
-| insolently      | ^in solently       | insolentemente        |
-| arisen          | a^risen            | surgiu                |
-| epithet         | ˈɛpɪθɛt            | epíteto, apelido      |
-| discretion      | dɪˈskrɛʃ(ə)n       |                       |
-| amidst          | əˈmɪdst            | entre                 |
-| Paran           | 'Peiran            |                       |
-| marauder        | məˈrɔːdə(r)        | marauder, sequestador |
-| shearing        | ʃɪə                | tosquia               |
-| feasting        | fiːst              |                       |
-| rebukes         | rɪˈbjuːk           |                       |
-| inconsequential | ˌɪnkɒnsɪˈkwɛnʃ(ə)l | inconsequente         |
-| emissaries      | ˈɛmɪs(ə)ri         | emissário, mensageiro |
+| Word            | Pronunciation     | Meaning               |
+| --------------- | ----------        | ------------          |
+| Abgail          | éb'gueiou          |
+| insolently      | 'ínsolently       | insolentemente        |
+| arisen          | a'risen           | surgiu                |
+| epithet         | 'épithet          | epíteto, apelido      |
+| discretion      | dis'créshian      | discrição             |
+| amidst          | a'mídst           | entre                 |
+| Paran           | 'Peiran           | Parão (cidade)        |
+| ravines         | Ra'víns           | Ravina, barranco      |
+| marauder        | mã'róder          | marauder, sequestador |
+| shearing        | 'chiãrin          | tosquia               |
+| feasting        | 'físt             | banquete (festa)      |
+| rebukes         | ri'biúke          | repreender, censurar  |
+| inconsequential | 'íncónsiquênchial | inconsequente         |
+| emissaries      | 'êmishari         | emissário, mensageiro |
 
 
 
