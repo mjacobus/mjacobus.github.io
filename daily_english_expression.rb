@@ -47,5 +47,5 @@ end
 episodes.each do |data|
   episode = Episode.new(data)
 
-  puts "- [#{episode.expression}](#{episode.url || '??'})"
+  puts "| [#{episode.expression}](#{episode.url || '??'}) | - | - |"
 end

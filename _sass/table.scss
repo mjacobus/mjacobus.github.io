@@ -4,4 +4,17 @@ table {
   th {
     text-align: left !important;
   }
+
+  td, th {
+    border: 1px solid #DDD;
+    padding: 3px;
+  }
+
+  td a {
+    text-decoration: none;
+  }
+
+  tr:nth-child(even) {
+    background: #EEE;
+  }
 }
