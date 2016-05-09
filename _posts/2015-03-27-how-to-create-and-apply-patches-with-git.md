@@ -17,3 +17,14 @@ And here is how to apply;
 {% highlight bash %}
 git apply /tmp/patch.diff
 {% endhighlight %}
+
+
+## Resolving conflicts:
+
+If it fails, you can run:
+
+{% highlight bash %}
+git am -3 < /tmp/patch.diff
+{% endhighlight %}
+
+Source [here](http://stackoverflow.com/questions/16190387/when-applying-a-patch-is-there-any-way-to-resolve-conflicts).
