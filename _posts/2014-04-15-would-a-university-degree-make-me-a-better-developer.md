@@ -15,8 +15,6 @@ They main reasons I am not in University are the following:
 
 3 – I don’t want to.
 
-4 – Even if I 1, 2 and 3, I don’t think it is worth, for (a) I have other priorities, and (b) my personal religious believes state that this world, as it is now, [will not last long](http://www.jw.org/en/publications/books/bible-teach/are-we-living-in-the-last-days/), so investing big time in career would be like putting on an expansive suit and make business on the sinking Titanic.
-
 Nevertheless, it got me thinking: what if I had never quit university? Would I be a better developer now?
 
 I tried to put all the above reasons aside and reason on the subject. I ended up concluding not only that I would not be a better developer as I would in fact be a worse one. Well, at lest you was not born in a wealthy family and you are in  Brazil. I will try to explain why. This is my personal opinion and I would love to hear from others.
