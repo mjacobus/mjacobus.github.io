@@ -17,11 +17,9 @@ They main reasons I am not in University are the following:
 
 Nevertheless, it got me thinking: what if I had never quit university? Would I be a better developer now?
 
-I tried to put all the above reasons aside and reason on the subject. I ended up concluding not only that I would not be a better developer as I would in fact be a worse one. Well, at lest you was not born in a wealthy family and you are in  Brazil. I will try to explain why. This is my personal opinion and I would love to hear from others.
+I tried to put all the above reasons aside and reason on the subject. I ended up concluding not only that I would not be a better developer, but I would likely be a worse. I will try to explain why. This is my personal opinion and I would love to hear from others.
 
-One reason is that the quality of courses in Brazil are not that great. It is neither difficult to be accepted in the University nor to pass the classes. In fact, you just need to attend the classes, pay a bit of attention, hand in some home works and you are done. This reflects the culture of education in Brazil. We are students, but we don’t care about what is being taught and we don’t care enough to learn. We only want to pass the classes so we can get them over with.
-
-Off course there is a difference between Primary School, High School and University. You don’t get to choose whether you want or not to attend High School. You ought to do that and when you are in Brazil and you don’t think that is important, so you just want to get it over.
+One reason is that the quality of courses in Brazil are not that great. It is neither difficult to be accepted in the University nor to pass the classes. In fact, you just need to attend the classes, pay a bit of attention, hand in some home works and you are done. This reflects the culture of education in Brazil. We are students, but we don’t care about what is being taught and we don’t care enough to learn. We only want to pass the classes so we can get put those times behind us.
 
 University is different. You get to choose what course you want to do. You will choose something you really like, or at least something you think will be very helpful. You will likely choose something you are really excited about and something you want to be really good at. So you will probably not face the music with a “let’s get it over with” spirit. Except that you will. But why would you do that?
 
@@ -29,13 +27,13 @@ You need a lot of money in order to attend a University in Brazil. Even if it is
 
 When you are in a situation like the above, you only want to get it over with.
 
-I was taking the Computer Science Bachelor course. I know a few people how graduated on that very same course and they all agree that the course was interesting but it was not worth the time and money. No real benefit. They are not better developers because of it.
+I was taking the Computer Science Bachelor course. I know a few people how graduated on that very same course and they all agree that the course was interesting but it was not worth the time or money. No real benefit. They are not better developers because of it.
 
-By the other hand, I know tons of excellent developers that acquired their very sharpen skills mostly  by themselves. By being self taught and dedicated learners.
+On the other hand, I know tons of excellent developers that acquired their very sharp skills mostly on their own, by being self taught and dedicated learners.
 
-I view myself as a fair developer. I am no genius. In fact I am very far from that. But I embraced good programming habits and developed good skills over the last few years. For instance, the most beneficial concepts and practices that I learned in the last years was Test Driven Development and SOLID. I am much more confident now that I embarrassed them. That is the kind of things you won’t learn in the University, at least not here in Brazil. And you will definitely have no time and will to learn those things if you are in the university. But you might have the time to do so once you “got over with”.
+I view myself as a good developer. I am no genius. In fact I am very far from that. But I embraced good programming habits and developed good skills over the last few years. For instance, the most beneficial concepts and practices that I learned in the last years was Test Driven Development and SOLID. I am much more confident now that I embraced them. That is the kind of think that one tend to learn in University. And you will definitely have no time and will power to learn those things if you are in the studying in university.
 
-I know that is not the case in other countries, but it seems to me that it is so in Brazil.
+I know that is not the case in other countries, but it seems to me that it is like so in Brazil.
 
 I hope to hear different opinions.
 
