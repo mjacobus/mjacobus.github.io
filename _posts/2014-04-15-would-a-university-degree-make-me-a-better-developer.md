@@ -27,11 +27,11 @@ You need a lot of money in order to attend a University in Brazil. Even if it is
 
 When you are in a situation like the above, you only want to get it over with.
 
-I was taking the Computer Science Bachelor course. I know a few people how graduated on that very same course and they all agree that the course was interesting but it was not worth the time or money. No real benefit. They are not better developers because of it.
+I was taking the Computer Science Bachelor course. I know a few people that graduated on that very same course and they all agree that the course was interesting but it was not worth the time or money. No real benefit. They are not better developers because of it.
 
 On the other hand, I know tons of excellent developers that acquired their very sharp skills mostly on their own, by being self taught and dedicated learners.
 
-I view myself as a good developer. I am no genius. In fact I am very far from that. But I embraced good programming habits and developed good skills over the last few years. For instance, the most beneficial concepts and practices that I learned in the last years was Test Driven Development and SOLID. I am much more confident now that I embraced them. That is the kind of think that one tend to learn in University. And you will definitely have no time and will power to learn those things if you are in the studying in university.
+I view myself as a good developer. I am no genius. In fact I am very far from that. But I embraced good programming habits and developed good skills over the last few years. For instance, the most beneficial concepts and practices that I learned in the last years was Test Driven Development and SOLID. I am much more confident now that I embraced them. That is not the kind of thing that one tends to learn in University. And you will definitely have no time and will power to learn those things if you are studying in the university.
 
 I know that is not the case in other countries, but it seems to me that it is like so in Brazil.
 
