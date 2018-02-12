@@ -2,5 +2,5 @@
 
 To run that just:
 ```bash
-jekyll serve
+bundle exec jekyll serve
 ```
