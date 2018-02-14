@@ -1,0 +1,31 @@
+- intro
+- choose ruby
+  - It is mature
+    - Ruby 23 years
+    - Rails ~14 years
+  - Its community is very innovative
+    - Tooling
+      - capistrano
+      - rake
+      - bundler
+  - Huge websites are built on it
+    - Xing
+      - 90+ ruby apps (85 Rails)
+  - It is begginner-friendly
+    - Friendly community
+    - Lots of resources
+    - Rails
+      - Convention over configuration
+      - Hides stuff you do not need to know
+      - Eliminates tedious tasks
+      - Database abstraction
+      - Full stack
+    - It helps you to become a better programmer
+    - Awesome standard library
+    - Syntax reads like English
+    - Designed to be fun
+  - It is on demand
+- conclusion
+- resources
+
+
