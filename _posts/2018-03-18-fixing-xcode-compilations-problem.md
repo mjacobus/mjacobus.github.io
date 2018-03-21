@@ -8,7 +8,7 @@ comments: true
 
 If [this](/2015/10/09/fixing-error-compiling-native-extensions-on-mac-os.html) did not work...
 
- ## Project ERROR: Xcode not set up properly. You may need to confirm the license agreement by running /usr/bin/xcodebuild.
+## Project ERROR: Xcode not set up properly. You may need to confirm the license agreement by running /usr/bin/xcodebuild.
 
 {% highlight bash %}
   current directory: /Users/marcelo.jacobus/.gem/ruby/2.3.5/gems/capybara-webkit-1.15.0
@@ -46,6 +46,8 @@ If [this](/2015/10/09/fixing-error-compiling-native-extensions-on-mac-os.html) d
 
  extconf failed, exit code 1
 {% endhighlight %}
+
+This was the fix.
 
 {% highlight bash %}
 sudo xcode-select -switch /Applications/Xcode.app/Contents/Develope
