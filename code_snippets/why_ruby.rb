@@ -1,3 +1,18 @@
+hash = {
+  one: 'The One',
+  two: 'Not the one',
+  'three' => 'None of the above',
+}
+
+hash[:one]                            # 'the one'
+hash['three']                         # 'the one'
+hash['non-existing']                  # nil
+hash.fetch('non-existing')            # raises error
+hash.fetch('non-existing', 'default') # 'default'
+
+hash.each do |key, value|
+  p "#{key} has value #{value}"
+end
 
 # array with numbers from 1 to 10
 
@@ -133,3 +148,27 @@ end
 "ruby rocks".upcase.downcase # rubyrocks
 "ruby rocks".split(' ').map(&:capitalize).join(' ')
 
+
+class Person
+  attr_reader :name
+  attr_reader :age
+
+  def initialize(name, age)
+    @name = name
+    @age = age
+  end
+end
+
+class FlexiblePerson < Person
+  def name=(new_name)
+    @name = new_name
+  end
+end
+
+someone= Person.new('Bob')
+someone.name # Bob
+someone.name = 'someone' # raises error 'undefined method...'
+
+someone_else = FlexiblePerson.new(‘Bob’)
+someone_else = 'Not Bob'
+someone_else.name # Not Bob
