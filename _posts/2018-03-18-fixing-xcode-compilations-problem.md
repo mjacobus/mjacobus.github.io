@@ -50,5 +50,5 @@ If [this](/2015/10/09/fixing-error-compiling-native-extensions-on-mac-os.html) d
 This was the fix.
 
 {% highlight bash %}
-sudo xcode-select -switch /Applications/Xcode.app/Contents/Develope
+sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer
 {% endhighlight %}
