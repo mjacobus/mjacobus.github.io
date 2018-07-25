@@ -6,6 +6,8 @@ tags: [Git]
 
 Have you heard of "Code retreat"?
 
+- [Definition](https://www.coderetreat.org/pages/facilitating/structure-of-a-coderetreat/)
+
 Well, code retreat is a software development practices that consists in getting
 a reasonable number of developers split in pairs to practice software
 development.
