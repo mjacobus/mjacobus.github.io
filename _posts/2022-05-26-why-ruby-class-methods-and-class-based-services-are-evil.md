@@ -130,6 +130,7 @@ code review suggestion, other than bug fixes.
 
 Undescriptive variable name? Typo? It does not matter. It works. The tests are green.
 
-But there is always some kind of bar, otherwise code reviews only serve for
-catching bugs. My goal here is to set the bar a little higher by applying those principles.
+But there is always some kind of bar, that is why we have code reviews, static
+analyzers and that kinda a stuff. My goal here is to set the bar a little
+higher by applying those principles.
 
