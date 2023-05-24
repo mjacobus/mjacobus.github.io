@@ -6,8 +6,7 @@ comments: true
 ---
 
 
-Chapter 2
-----------------
+## Chapter 2
 
 ### Linked lists
 
@@ -29,15 +28,17 @@ Chapter 2
 
 Random access vs sequential access.
 
-Chapter 3: Recursion
 ----------------
+
+## Chapter 3: Recursion
 
 - Recursion uses more memory because of the `call stack`, that saves variable information, but it may be easier to grasp than a for loop.
 - For loop can be more efficient.
 - It has the base case and the recursive case.
 
-Chapter 4: Quicksort
 -------------------------
+
+## Chapter 4: Quicksort
 
 D&C (Divide and conquer works):
 
@@ -46,8 +47,9 @@ D&C (Divide and conquer works):
 
 > TIP: When you're writing a recursive function involving an array, the base case is often an empty array or an array with one element. If you're stuck, try that first.
 
-Chapter 5: Hash Tables
 -------------------------
+
+## Chapter 5: Hash Tables
 
 - Hash -> index -> instant lookup
 
@@ -70,11 +72,12 @@ Big O
 - Worst case it reads as poorly as a linked list `O(n)`
 - Best case it reads as well as an array list `O(1)`
 
-Chapter 6: Breadth-first Search
 -------------------------
+
+## Chapter 6: Breadth-first Search
 
 - It is the algorithm to find the shortest path in a graph
 - Directed graph `A -> B` (A fathered B)
-- Undirected path - graph don't have arrows and the relationship goes both ways - (`ross - Rachel`)
+- Undirected path - graph don't have arrows and the relationship goes both ways - (`Ross - Rachel`)
 - The search list must be a queue
 - Must not double check a node to avoid an infinite loop
