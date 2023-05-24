@@ -67,3 +67,9 @@ Big O
 - Best case it reads as well as an array list (O(1))
 
 ## Chapter 6: Breadth-first Search
+
+- It is the algorithm to find the shortest path in a graph
+- Directed graph `A -> B` (A fathered B)
+- Undirected path - graph don't have arrows and the relationship goes both ways - (ross - ranchel)
+- The search list must be a queue
+- Must not double check a node to avoid an infinite loop
